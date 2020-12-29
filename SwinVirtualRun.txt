@@ -1,0 +1,19 @@
+
+~~ Transaction entry ~~
+Single registration total: RM80
+Couple registration total: RM210
+Group registration total: RM200
+Total purchase: RM490
+
+~~ Transaction entry ~~
+Single registration total: RM40
+Couple registration total: RM0
+Group registration total: RM200
+Total purchase: RM240
+
+~~ Transaction entry ~~
+Single registration total: RM0
+Couple registration total: RM0
+Group registration total: RM0
+Total purchase: RM0
+
